@@ -11,4 +11,3 @@ My name is Arthur Pasqualotto and i'm a Graduate Student @UFSM (Universidade Fed
 - 📫 How to reach me: arthur.ps22009@gmail.com 
 - 😄 Pronouns: he/him
 - Lattes Curriculum : http://lattes.cnpq.br/5681307788315109
-- ⚡ Fun fact: 
