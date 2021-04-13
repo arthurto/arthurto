@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**arthurto/arthurto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 My name is Arthur Pasqualotto and i'm a Graduate Student @UFSM (Universidade Federal de Santa Maria) currently in my Masters.
 
 - 🔭 I’m currently working on Effective Models of QCD for High Density Quark Matter and its Astrophysical Phenomenology trough the study of Neutron and Quark Stars.
