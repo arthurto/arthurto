@@ -9,8 +9,8 @@ My name is Arthur Pasqualotto and i'm a Brazilian Graduate Student @UFSM (Univer
 </div>
 
 
-- 🔭 I’m currently working on Effective Models of QCD for High Density Quark Matter and its Astrophysical Phenomenology trough the study of Neutron and Quark Stars.
-- 🌱 I’m currently learning Python and Julia to develop my reaserch on Physics, but i'm also a lover of Mathematics and all sort of numerical simulations. 
+- 🔭 I’m currently studying Data Science and Researching High Energy Physics.
+- 🌱 I’m currently learning Julia and Machine Learning to develop my reaserch on Physics and my Data Science carrer. 
 - 💬 Ask me about Physics, Mathematics & anything you want!! 
 - 📫 How to reach me: arthur.ps22009@gmail.com 
 - 😄 Pronouns: he/him
