@@ -2,13 +2,6 @@
 
 My name is Arthur Pasqualotto and i'm a Brazilian Graduate Student @UFSM (Universidade Federal de Santa Maria) currently in my Masters.
 
- <div>
-  <a href="https://github.com/arthurto">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=arthurto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurto&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-
 - 🔭 I’m currently studying Data Science and Researching High Energy Physics.
 - 🌱 I’m currently learning Julia and Machine Learning to develop my reaserch on Physics and my Data Science carrer. 
 - 💬 Ask me about Physics, Mathematics & anything you want!! 
