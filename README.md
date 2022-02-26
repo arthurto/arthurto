@@ -19,4 +19,3 @@ My name is Arthur Pasqualotto and i'm a Brazilian Graduate Student @UFSM (Univer
 Recently building a Numerical Julia Package of functions i needed and couldn't find elswere. (https://github.com/arthurto/NumericalJulia)
 
 My love for symulations can be seen in my numerical solutions of 1-D Schrödinger's Equation from Quantum Mechanics. (https://github.com/arthurto/Schr-dinger.py)
-
