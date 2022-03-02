@@ -9,6 +9,6 @@ My name is Arthur Pasqualotto and i'm a Brazilian Graduate Student @UFSM (Univer
 - 😄 Pronouns: he/him
 - Lattes Curriculum : http://lattes.cnpq.br/5681307788315109
 
-Recently building a Numerical Julia Package of functions i needed and couldn't find elswere. (https://github.com/arthurto/NumericalJulia)
+  <summary><b>🔎 Github Profile Details</b></summary>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurto&theme=github_dark" alt="Arthur" align = "center"/></p>
 
-My love for symulations can be seen in my numerical solutions of 1-D Schrödinger's Equation from Quantum Mechanics. (https://github.com/arthurto/Schr-dinger.py)
